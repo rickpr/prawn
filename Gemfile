@@ -38,4 +38,4 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem 'prawn'
+gem 'prawn', '0.13'
